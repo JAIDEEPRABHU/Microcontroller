@@ -1,3 +1,6 @@
+//Author : Jaideep
+
+
 module MCU_tb;
 reg clk;
 reg rst;
