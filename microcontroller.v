@@ -1,3 +1,5 @@
+// Author : Jaideep
+
 module ALU(  input [7:0] Operand1,Operand2,
   input E, 
   input [3:0] Mode,
